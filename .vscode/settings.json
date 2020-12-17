@@ -1,0 +1,37 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "markdownlint.config": {
+        "html": true,
+        "MD033": false
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "prettier.enable": true,
+    "prettier.packageManager": "yarn",
+    "prettier.prettierPath": "node_modules/prettier",
+    "prettier.requireConfig": true,
+    "editor.formatOnSave": true,
+    "cSpell.allowCompoundWords": true,
+    "auto-close-tag.activationOnLanguage": [
+        "xml",
+        "php",
+        "blade",
+        "ejs",
+        "jinja",
+        "javascriptreact",
+        "typescriptreact",
+        "plaintext",
+        "markdown",
+        "vue",
+        "liquid",
+        "erb",
+        "lang-cfml",
+        "cfml",
+        "HTML (EEx)",
+        "HTML (Eex)",
+        "plist"
+    ]
+}
