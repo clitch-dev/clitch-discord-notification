@@ -1,4 +1,4 @@
-# Clich Discord Notification Bot
+# Clitch Discord Notification Bot
 
 ## About
 
